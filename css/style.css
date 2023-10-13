@@ -59,7 +59,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #555555;
+  color: #0f6674;
   text-align: left;
   background-color: #FFFBF2;
 }
@@ -2244,7 +2244,7 @@ textarea.form-control {
 }
 
 .was-validated .custom-control-input:invalid:focus ~ .custom-control-label::before, .custom-control-input.is-invalid:focus ~ .custom-control-label::before {
-  box-shadow: 0 0 0 0.2rem rgba(220, 53, 69, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(39, 21, 201, 0.763);
 }
 
 .was-validated .custom-control-input:invalid:focus:not(:checked) ~ .custom-control-label::before, .custom-control-input.is-invalid:focus:not(:checked) ~ .custom-control-label::before {
@@ -2322,7 +2322,7 @@ textarea.form-control {
 .btn {
   display: inline-block;
   font-weight: 400;
-  color: #555555;
+  color: #70ce32;
   text-align: center;
   vertical-align: middle;
   user-select: none;
@@ -2348,7 +2348,7 @@ textarea.form-control {
 
 .btn:focus, .btn.focus {
   outline: 0;
-  box-shadow: 0 0 0 0.2rem rgba(218, 159, 91, 0.25);
+  box-shadow: 0 0 0 0.2rem rgba(201, 38, 13, 0.25);
 }
 
 .btn.disabled, .btn:disabled {
@@ -2403,8 +2403,8 @@ fieldset:disabled a.btn {
 
 .btn-secondary {
   color: #fff;
-  background-color: #33211D;
-  border-color: #33211D;
+  background-color: #d1cd0a;
+  border-color: #0c892b;
 }
 
 .btn-secondary:hover {
