@@ -1,9 +1,9 @@
 /******* Bootstrap Theming ********/
 
-$primary: #DA9F5B;
-$secondary: #33211D;
-$light: #FFFBF2;
-$dark: #111111;
+$primary: #df8e31;
+$secondary: #a92f14;
+$light: #3ab714;
+$dark: #5cb222;
 
 $font-family-sans-serif: 'Montserrat',
 sans-serif;
@@ -150,7 +150,7 @@ h6,
     left: 0;
     right: 0;
     bottom: 0;
-    background: rgba(51, 33, 29, .7);
+    background: rgba(229, 49, 9, 0.7);
     z-index: 1;
 }
 
@@ -235,7 +235,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-    background: linear-gradient(rgba(51, 33, 29, .9), rgba(51, 33, 29, .9)), url(../img/bg.jpg);
+    background: linear-gradient(rgba(208, 79, 50, 0.9), rgba(223, 86, 55, 0.9)), url(../img/bg.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
