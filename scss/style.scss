@@ -122,7 +122,7 @@ h6,
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: $primary;
+    color: $secondary;
 }
 
 .overlay-top::before,
@@ -226,7 +226,7 @@ h6,
 }
 
 .contact-form .help-block ul {
-    margin: 0;
+    margin: 2;
     padding: 0;
     list-style-type: none;
 }
@@ -235,7 +235,7 @@ h6,
 .page-header,
 .offer,
 .footer {
-    background: linear-gradient(rgba(208, 79, 50, 0.9), rgba(223, 86, 55, 0.9)), url(../img/bg.jpg);
+    background: -linear-gradient() ()  (rgba(57, 132, 46, 0.655), rgba(136, 192, 47, 0.9)), url(../img/bg.jpg);
     background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
